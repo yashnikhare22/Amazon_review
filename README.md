@@ -51,6 +51,4 @@ Further research could explore:
 - Expansion to multilingual datasets to enhance the model's applicability in global markets.
 - Exploration of other transformer-based models like RoBERTa or GPT-3 for comparison and potential performance improvements.
 
----
 
-This comprehensive project file provides an all-encompassing view of your work, from inception through to conclusion and future recommendations. It's designed to be informative for both technical and non-technical stakeholders.
